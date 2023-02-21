@@ -16,4 +16,6 @@ git clone git@github.com:cuzperf/mix.git
 git clone git@github.com:cuzperf/resume.git
 git clone git@github.com:cuzperf/standalone_gn.git -b dev/czp
 git clone git@github.com:cuzperf/ubuntu.git
-
+cd ubuntu
+git lfs pull
+cd ..
