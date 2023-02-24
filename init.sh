@@ -1,5 +1,5 @@
 #! /bin/bash
-
+sudo apt install git git-lfs -y
 git config --global user.name cuzperf
 git config --global user.email cuzperf@outlook.com
 git config --global core.longpaths true
@@ -19,3 +19,4 @@ git clone git@github.com:cuzperf/ubuntu.git
 cd ubuntu
 git lfs pull
 cd ..
+
