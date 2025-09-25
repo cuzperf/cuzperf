@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+🌱 I’m currently working on Modelica Compiler and solver in MWORKS.Sysplorer
+
 - 😄 Blog: https://cuzperf.cn
 - 📫 Mail: cuzperf@outlook.com
 - 🔭 Skill: C99/C++17, noncommutative algebra
