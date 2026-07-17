@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-🌱 I’m currently working on Modelica Compiler and solver in MWORKS.Sysplorer
+🌱 I’m currently working on Modelica Compiler and solver in MWORKS.Sysplorer using account @Modelica-ZhipengChen
 
 - 😄 Blog: https://cuzperf.cn
 - 📫 Mail: cuzperf@outlook.com
-- 🔭 Skill: C99/C++17, noncommutative algebra
+- 🔭 Skill: C99/C++17, Modelica, Julia
 - ✨ Motto: 苟余行之不迷，虽颠沛其何伤
 
 <!--
