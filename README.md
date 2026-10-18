@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-🌱 I’m currently working on Modelica compiler and solver in MWORKS.Sysplorer using account [Modelica-ZhipengChen](https://github.com/Modelica-ZhipengChen)
+🌱 I'm currently working on the Modelica compiler and solver in MWORKS.Sysplorer at Tongyuan, using using account [Modelica-ZhipengChen](https://github.com/Modelica-ZhipengChen)
 
 - 😄 Blog: https://cuzperf.cn
 - 📫 Mail: cuzperf@outlook.com
